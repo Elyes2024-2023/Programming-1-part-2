@@ -1,0 +1,8 @@
+C:\Users\ibrhe\Desktop\Visual folders\AthleticsApp\bin\Debug\AthleticsApp.exe.config
+C:\Users\ibrhe\Desktop\Visual folders\AthleticsApp\bin\Debug\AthleticsApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\AthleticsApp\bin\Debug\AthleticsApp.pdb
+C:\Users\ibrhe\Desktop\Visual folders\AthleticsApp\obj\Debug\AthleticsApp.csproj.AssemblyReference.cache
+C:\Users\ibrhe\Desktop\Visual folders\AthleticsApp\obj\Debug\AthleticsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrhe\Desktop\Visual folders\AthleticsApp\obj\Debug\AthleticsApp.csproj.CoreCompileInputs.cache
+C:\Users\ibrhe\Desktop\Visual folders\AthleticsApp\obj\Debug\AthleticsApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\AthleticsApp\obj\Debug\AthleticsApp.pdb

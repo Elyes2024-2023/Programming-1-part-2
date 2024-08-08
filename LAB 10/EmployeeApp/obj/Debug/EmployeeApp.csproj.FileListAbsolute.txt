@@ -1,0 +1,8 @@
+C:\Users\ibrhe\Desktop\Visual folders\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\ibrhe\Desktop\Visual folders\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\ibrhe\Desktop\Visual folders\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\ibrhe\Desktop\Visual folders\EmployeeApp\obj\Debug\EmployeeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrhe\Desktop\Visual folders\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\ibrhe\Desktop\Visual folders\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\EmployeeApp\obj\Debug\EmployeeApp.pdb

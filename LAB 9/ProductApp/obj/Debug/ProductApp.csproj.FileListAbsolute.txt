@@ -1,0 +1,8 @@
+C:\Users\ibrhe\Desktop\Visual folders\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+C:\Users\ibrhe\Desktop\Visual folders\ProductApp\obj\Debug\ProductApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrhe\Desktop\Visual folders\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\ibrhe\Desktop\Visual folders\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\ibrhe\Desktop\Visual folders\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\ibrhe\Desktop\Visual folders\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\ProductApp\obj\Debug\ProductApp.pdb

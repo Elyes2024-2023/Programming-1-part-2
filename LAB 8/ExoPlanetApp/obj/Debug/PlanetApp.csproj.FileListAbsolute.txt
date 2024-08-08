@@ -1,0 +1,8 @@
+C:\Users\ibrhe\Desktop\Visual folders\PlanetApp\obj\Debug\PlanetApp.csproj.AssemblyReference.cache
+C:\Users\ibrhe\Desktop\Visual folders\PlanetApp\obj\Debug\PlanetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrhe\Desktop\Visual folders\PlanetApp\obj\Debug\PlanetApp.csproj.CoreCompileInputs.cache
+C:\Users\ibrhe\Desktop\Visual folders\PlanetApp\bin\Debug\PlanetApp.exe.config
+C:\Users\ibrhe\Desktop\Visual folders\PlanetApp\bin\Debug\PlanetApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\PlanetApp\bin\Debug\PlanetApp.pdb
+C:\Users\ibrhe\Desktop\Visual folders\PlanetApp\obj\Debug\PlanetApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\PlanetApp\obj\Debug\PlanetApp.pdb

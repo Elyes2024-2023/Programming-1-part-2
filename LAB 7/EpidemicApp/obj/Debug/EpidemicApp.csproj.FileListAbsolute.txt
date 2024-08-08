@@ -1,0 +1,8 @@
+C:\Users\ibrhe\Desktop\Visual folders\EpidemicApp\obj\Debug\EpidemicApp.csproj.AssemblyReference.cache
+C:\Users\ibrhe\Desktop\Visual folders\EpidemicApp\obj\Debug\EpidemicApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrhe\Desktop\Visual folders\EpidemicApp\obj\Debug\EpidemicApp.csproj.CoreCompileInputs.cache
+C:\Users\ibrhe\Desktop\Visual folders\EpidemicApp\bin\Debug\EpidemicApp.exe.config
+C:\Users\ibrhe\Desktop\Visual folders\EpidemicApp\bin\Debug\EpidemicApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\EpidemicApp\bin\Debug\EpidemicApp.pdb
+C:\Users\ibrhe\Desktop\Visual folders\EpidemicApp\obj\Debug\EpidemicApp.exe
+C:\Users\ibrhe\Desktop\Visual folders\EpidemicApp\obj\Debug\EpidemicApp.pdb
